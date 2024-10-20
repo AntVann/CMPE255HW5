@@ -10,5 +10,3 @@ https://medium.com/@anthonyjustinvann/a-comprehensive-analysis-of-student-perfor
 ## KDD
 https://medium.com/@anthonyjustinvann/unlocking-insights-from-avocado-data-using-the-kdd-methodology-adba7cd2a202
 
-## Research Paper
-
