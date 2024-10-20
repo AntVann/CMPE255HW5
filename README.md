@@ -8,6 +8,7 @@ https://medium.com/@anthonyjustinvann/unveiling-video-game-trends-using-crisp-dm
 https://medium.com/@anthonyjustinvann/a-comprehensive-analysis-of-student-performance-using-the-semma-methodology-3387734789b1
 
 ## KDD
+https://medium.com/@anthonyjustinvann/unlocking-insights-from-avocado-data-using-the-kdd-methodology-adba7cd2a202
 
 ## Research Paper
 
