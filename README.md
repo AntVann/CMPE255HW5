@@ -1,5 +1,5 @@
 # Anthony Vann CMPE 255 HW 5
-HW 5 contains CRISP-DM SEMMA and KDD medium articles plus an arxiv research paper in latex format.
+HW 5 contains CRISP-DM SEMMA and KDD medium articles.
 
 ## Crisp-DM 
 https://medium.com/@anthonyjustinvann/unveiling-video-game-trends-using-crisp-dm-a-data-driven-approach-to-predicting-sales-success-af6301482345
